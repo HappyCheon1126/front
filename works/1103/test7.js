@@ -98,6 +98,6 @@ function regexCheck() {
   // }
   
   
-  alert("작업끝");
+  alert("작업끝입니다...");
   document.getElementById("content").focus();
 }
